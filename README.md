@@ -3,8 +3,10 @@
 # Phần mềm quản lý 
 <p align="center">
   <img width="350" height="300" src="http://eclub-tcu.com/pic/tcu.jpg">
-</p>                
+</p>              
 
+# Tiến Trình thực hiện
+Phân Chia công việc bằng biểu đồ gantt [Xem tại đây](https://docs.google.com/spreadsheets/d/150kVzFjPReyWP_Xvs44DIxphCS4XJMpgcBNJgPbXLs8/edit?usp=sharing)
 
 ## Quản lý phiên bản
 
