@@ -13,7 +13,7 @@ Chúng tôi dùng [Git](https://git-scm.com/) để tổ chức quản lý phiê
 
 ## Tác giả
 
-* **Trịnh Đình Phúc** | 016.888.900.93 | phuccoi996@gmail.com
+* **Trịnh Đình Phúc** |phuccoi996@gmail.com
 * **Ngô Mậu Bảo** | ngomaubaodhcn1b@gmail.com
 * **Bùi Nguyễn Hải Đăng** | haidangaten@hotmail.com
 
