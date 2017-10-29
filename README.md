@@ -1,4 +1,3 @@
-# TeamTCU
 # Đề tài môn học Hệ Thông Phân Tán
 
 # Phần mềm quản lý 
